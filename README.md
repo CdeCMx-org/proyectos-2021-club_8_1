@@ -45,7 +45,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
 ### Equipo
 
 * Ana Guadalupe Méndez Hernández
-* Angel Ramirez
-* Ana Rosa
+* Angel Ramirez Angeles
+* Ana Rosa de la Cruz Nicolás
 * Andrea Melissa Mollineda Oregón 
 
