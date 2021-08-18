@@ -44,8 +44,8 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
+* Ana Guadalupe Méndez Hernández
+* Angel Ramirez
+* Ana Rosa
 * Andrea Melissa Mollineda Oregón 
 
