@@ -9,11 +9,8 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 ### Introducción
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+El virus del Nipah es un virus zoonótico ya que es transmitido principalmente de animales a personas, la infección humana por el virus tiene manifestaciones clínicas diversas como infecciones asintomáticas, infecciones respiratorias agudas y hasta la encefalitis letal. 
+Hasta la fecha no existe una cura o un tratamiento específico, es por ello que el virus del Nipah se encuentra en la lista de enfermedades prioritarias del plan de investigación y desarrollo de la OMS.
 
 ### Métodología
 
