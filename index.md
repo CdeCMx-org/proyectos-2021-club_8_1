@@ -12,10 +12,11 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 Hasta la fecha no existe una cura o un tratamiento específico, es por ello que el virus del Nipah se encuentra en la lista de enfermedades prioritarias del plan de investigación y desarrollo de la OMS.
 
-             ![](6EB9.png) Imagen tridimensional de la proteína 6EB9 del virus de Nipah
+![](6EB9.png) Imagen tridimensional de la proteína 6EB9 del virus de Nipah
 
+<div align=”center”> [ ![](6EB9.png) ]</div>
 
-### Métodología
+# Métodología
 
 Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
 
