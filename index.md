@@ -20,8 +20,11 @@ img {
 
 <figure>
   <img align="center" src="murcielagos.png" style="width:80%">
-  <figcaption>Fig.2 - Murcielagos.</figcaption>
+  <figcaption>Fig.2 - **Los murciélagos sobrevuelan el mercado de Battambang, Camboya orinando y defecando en cualquier sitio.**
+.</figcaption>
 </figure>
+**Los murciélagos sobrevuelan el mercado de Battambang, Camboya orinando y defecando en cualquier sitio.**
+
   
 <figure>
   <img class="center" src="murcielagos.png" style="width:50%">
@@ -30,10 +33,7 @@ img {
                                                               
 ![](murcielagos.png)
 #### Fig. 4 Murcielagos
-<figure>
-  <img class="center" src="4CO6.png" style="width:50%">
-  <figcaption>Fig.5 - 4CO6.</figcaption>
-</figure>
+
 
 **Los murciélagos sobrevuelan el mercado de Battambang, Camboya orinando y defecando en cualquier sitio.**
 
