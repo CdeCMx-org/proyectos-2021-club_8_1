@@ -17,6 +17,15 @@ img {
 <figcaption> Opción 1. </figcaption>
 </body>
 
+<figure>
+  <img align="center" src="murcielagos.png" style="width:100%">
+  <figcaption>Fig.2 - Murcielagos.</figcaption>
+</figure>
+  
+<figure>
+  <img class="center" src="murcielagos.png" style="width:100%">
+  <figcaption>Fig.3 - Murcielagos.</figcaption>
+</figure>
                                                               
 ![](murcielagos.png)
 
