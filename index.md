@@ -10,6 +10,13 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+</style>
+</head>
+<body>
+<img src="murcielagos.png" alt="murcielagos" style="width:60%;">
+    <figcaption>Fig.1 - Murcielagos.</figcaption>
+</body>
+</html>
 
 
 <figure>
