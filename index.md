@@ -1,6 +1,22 @@
 ## Antígenos y receptores, ¿Cuáles son más compatibles?
 Nuestro proyecto consiste en hacer una investigación de las proteínas pertenecientes a un virus,  en este caso el virus de Nipah, con el fin de analizar la unión que puede tener con algunos receptores tipo TOLL, mediante varios servidores e interpretar  la información que nos generan
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="murcielagos.png" alt="murcielagos" style="width:60%;">
+    <figcaption>Fig.1 - Murcielagos.</figcaption>
+</body>
+</html>
 
 <figure>
   <img align="center" src="murcielagos.png" style="width:80%">
@@ -10,11 +26,7 @@ Nuestro proyecto consiste en hacer una investigación de las proteínas pertenec
 
 
   
-<figure>
-  <img class="center" src="murcielagos.png" style="width:50%">
-  <figcaption>Fig.3 - Murcielagos.</figcaption>
-</figure>
-                                                              
+                                                   
 ![](murcielagos.png)
 #### Fig. 4 Murcielagos
 
