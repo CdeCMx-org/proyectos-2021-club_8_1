@@ -121,8 +121,8 @@ img {
 </style>
 </head>
 <body>
-<img src="receptores.png" alt="receptores" style="width:60%;">
-    <figcaption>Fig.2 - Receptores tipo TOLL (TLRs).</figcaption>
+<img src="Captura Excel 1.png" alt="Captura Excel 1" style="width:60%;">
+    <figcaption>Fig.2 - </figcaption>
 </body>
 </html>
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
