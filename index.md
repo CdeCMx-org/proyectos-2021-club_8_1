@@ -16,7 +16,10 @@ La tasa de letalidad del virus se estima entre un 40% y un 75%, dependiendo del 
 **Receptores tipo TOLL (TLR's)**
 
 Los receptores tipo toll (TLRs)  son sensores de reconocimiento de membrana evolutivamente conservados, propios de la inmunidad innata que reconocen características presentes en la superficie de patógenos o que son liberados por tejido necrótico. Los TLRs se unen a través de sus dominios, que contienen repeticiones ricas en leucina (RRL) a los PMAM, y de esa manera las células desencadenan respuestas inmunitarias, entre ellas acciones inflamatorias y antivirales a través de vías de señalización derivadas del receptor intracelular (Durán A., 2014)
-(inserte imagen de los receptores)
+
+![](receptores.png)
+
+**Receptores tipo toll (TLR's)**
 
 **Las proteínas del virus de Nipah**
 
@@ -29,7 +32,9 @@ Se han estudiado proteínas como la 4CO6 que es una estructura cristalina del co
 - Sistema de expresión:  Escherichia coli BL21 (DE3) 
 - Mutación (es):  No  
 
-(inserte imagen de proteína 4CO6)
+![](4CO6.png)
+
+**Estructura tridimensional de la proteína chaperona 4CO6 del virus de Nipah **
 
 **Proteína 6EB9: Estructura cristalina del dominio de multimerización de fosfoproteínas del virus Nipah Delta 542-544**
 - DOI:  10.2210 / pdb6EB9 / pdb
