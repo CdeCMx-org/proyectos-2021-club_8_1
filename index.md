@@ -109,6 +109,22 @@ Se han estudiado proteínas como la 4CO6 que es una estructura cristalina del co
 
 ### Resultados
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="receptores.png" alt="receptores" style="width:60%;">
+    <figcaption>Fig.2 - Receptores tipo TOLL (TLRs).</figcaption>
+</body>
+</html>
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
 
 Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
