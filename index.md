@@ -113,6 +113,7 @@ Se han estudiado proteínas como la 4CO6 que es una estructura cristalina del co
 A continuación, les mostraremos los resultados del docking molecular que llevamos a cabo con cada una de las proteínas y con los receptores que seleccionamos.
 Para la proteína chaperona 4CO6, que está presente en interior del virus  se decidió usar receptores tipo toll (TLR's) internos, como  el TLR3, TLR7 y TLR8. 
 
+![](tabla1.PNG)
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
 
 Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
