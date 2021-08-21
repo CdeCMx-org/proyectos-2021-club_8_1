@@ -132,6 +132,13 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 ### Conclusiones
 
 Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
+### Bibliografía
+
+1. World Health Organization. (2011). Nipah virus= Virus Nipah. Weekly Epidemiological Record= Relevé épidémiologique hebdomadaire, 86(41), 451-455.
+Ejecutivo, C. (2018). Preparación y respuesta en materia de salud pública: labor de la OMS en emergencias sanitarias: informe del Director General (No. EB142/9). Organización Mundial de la Salud.
+2. Ramphul, K., Mejias, S. G., Agumadu, V. C., Sombans, S., Sonaye, R., & Lohana, P. (2018). The killer virus called Nipah: a review. Cureus, 10(8).
+3. Bonaparte, M. I., Dimitrov, A. S., Bossart, K. N., Crameri, G., Mungall, B. A., Bishop, K. A., ... & Broder, C. C. (2005). Ephrin-B2 ligand is a functional receptor for Hendra virus and Nipah virus. Proceedings of the National Academy of Sciences, 102(30), 10652-10657.
+4. Durán, A., Álvarez-Mon, M., & Valero, N. (2014). Papel de los receptores tipo toll (TLRs) y receptores para dominios de oligomerización para la unión a nucleótidos (NLRs) en las infecciones virales. Investigación Clínica, 55(1), 61-81.
 
 ### Video
  1. Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html.
