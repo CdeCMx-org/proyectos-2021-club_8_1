@@ -1,6 +1,8 @@
 ## Antígenos y receptores, ¿Cuáles son más compatibles?
 Nuestro proyecto consiste en hacer una investigación de las proteínas pertenecientes a un virus,  en este caso el virus de Nipah, con el fin de analizar la unión que puede tener con algunos receptores tipo TOLL, mediante varios servidores e interpretar  la información que nos generan
 
+
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -10,12 +12,17 @@ img {
   margin-right: auto;
 }
 </style>
-
- 
+</head>
 <body>
+
+<h2>Center an Image</h2>
+<p>To center an image, set left and right margin to auto, and make it into a block element.</p>
+
 <img src="murcielagos.png" alt="Paris" style="width:50%;">
-<figcaption> Opción 1. </figcaption>
+  <figcaption>Fig.1 - Murcielagos.</figcaption>
 </body>
+</html>
+
 
 <figure>
   <img align="center" src="murcielagos.png" style="width:100%">
