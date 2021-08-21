@@ -10,6 +10,13 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+</style>
+</head>
+<body>
+<img src="murcielagos.png" alt="murcielagos" style="width:80%;">
+    <figcaption>Fig.1 - Los murciélagos sobrevuelan el mercado de Battambang, Camboya orinando y defecando en cualquier sitio.</figcaption>
+</body>
+</html>
 
 
 
