@@ -1,4 +1,6 @@
 ## Antígenos y receptores, ¿Cuáles son más compatibles?
+Ana Guadalupe Méndez Hernández, Angel Ramirez Angeles, Ana Rosa de la Cruz Nicolás, Andrea Melissa Mollineda Oregón 
+
 Nuestro proyecto consiste en hacer una investigación de las proteínas pertenecientes a un virus,  en este caso el virus de Nipah, con el fin de analizar la unión que puede tener con algunos receptores tipo TOLL, mediante varios servidores e interpretar  la información que nos generan
 
 <html>
@@ -18,21 +20,6 @@ img {
 </body>
 </html>
 
-
-
-<figure>
-  <img align="center" src="murcielagos.png" style="width:80%">
-  <figcaption>Fig.2 - Los murciélagos sobrevuelan el mercado de Battambang, Camboya orinando y defecando en cualquier sitio.
-.</figcaption>
-</figure>
-
-
-  
-                                                   
-#### Fig. 4 Murcielagos
-
-
-**Los murciélagos sobrevuelan el mercado de Battambang, Camboya orinando y defecando en cualquier sitio.**
 
 ## Introducción
 El virus de Nipah es un virus zoonótico ya que es transmitido principalmente de animales a personas aunque también  de un individuo a otro y mediante alimentos contaminados. Esta enfermedad infecciosa es reconocida por primera vez en 1999 en Malasia durante un brote entre criadores de cerdos. El virus Nipah es un miembro del género Henipavirus de la familia Paramyxoviridae. Este género incluye al virus Hendra, con el que está estrechamente relacionado.
