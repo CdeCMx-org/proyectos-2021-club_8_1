@@ -45,7 +45,7 @@ Se han estudiado proteínas como la 4CO6 que es una estructura cristalina del co
 
 ![](6EB9.png)
 
-**Estructura tridimensional de la proteína 6EB9 del virus de Nipah**
+**Estructura tridimensional de la proteína chaperona 4CO6 del virus del Nipah**
 
 
 ## Metodología
