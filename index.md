@@ -3,19 +3,46 @@ Nuestro proyecto consiste en hacer una investigación de las proteínas pertenec
 
 ![](murcielagos.png)
 
-
 **Los murciélagos sobrevuelan el mercado de Battambang, Camboya orinando y defecando en cualquier sitio.**
 
 ## Introducción
+El virus de Nipah es un virus zoonótico ya que es transmitido principalmente de animales a personas aunque también  de un individuo a otro y mediante alimentos contaminados. Esta enfermedad infecciosa es reconocida por primera vez en 1999 en Malasia durante un brote entre criadores de cerdos. El virus Nipah es un miembro del género Henipavirus de la familia Paramyxoviridae. Este género incluye al virus Hendra, con el que está estrechamente relacionado.
 
+La infección por este virus es una enfermedad emergente y endémica en el sureste de Asia en Bangladesh se reconoció por primera vez en el año 2001, el país ha sufrido brotes anuales desde entonces al igual que al este de la India. Otras regiones están en riesgo de infección por el virus de Nipah ya que se han encontrado pruebas serológicas de su presencia en el reservorio natural de especies de murciélagos del género Pteropus, entre otras especies de murciélagos ubicados en otros países como Camboya, Filipinas, Ghana, Indonesia, Madagascar y Tailandia.
 
-Hasta la fecha no existe una cura o un tratamiento específico, es por ello que el virus del Nipah se encuentra en la lista de enfermedades prioritarias del plan de investigación y desarrollo de la OMS.
+Una de las principales sospechas de este acontecimiento son los incendios forestales y la sequía, ya que estos factores provocaron el desalojo del hábitat natural de los murciélagos provocando su migración a zonas cultivadoras de frutos, mismas zonas en las que se encuentran las granjas de cerdos.  
+La tasa de letalidad del virus se estima entre un 40% y un 75%, dependiendo del brote. En la actualidad no existen medicamentos ni vacunas para la infección por el virus de Nipah, por lo que se encuentra dentro de las enfermedades prioritarias del plan de investigación y desarrollo de la OMS (World Health Organization, 2011
+
+**Receptores tipo TOLL (TLR's)
+
+Los receptores tipo toll (TLRs)  son sensores de reconocimiento de membrana evolutivamente conservados, propios de la inmunidad innata que reconocen características presentes en la superficie de patógenos o que son liberados por tejido necrótico. Los TLRs se unen a través de sus dominios, que contienen repeticiones ricas en leucina (RRL) a los PMAM, y de esa manera las células desencadenan respuestas inmunitarias, entre ellas acciones inflamatorias y antivirales a través de vías de señalización derivadas del receptor intracelular (Durán A., 2014)
+(inserte imagen de los receptores)
+
+**Las proteínas del virus de Nipah
+
+Se han estudiado proteínas como la 4CO6 que es una estructura cristalina del complejo nucleoproteína-fosfoproteína libre de ARN del virus Nipah y la 6EB9 estructura cristalina del dominio de multimerización de fosfoproteínas del virus Nipah proporcionando nuevos conocimientos para la obtención de posibles fármacos contra el virus. Es por ello que en este trabajo se tiene como principal objetivo encontrar ciertos antígenos que sean reconocidos con receptores tipo toll (TLRs).
+
+**4CO6: Estructura cristalina del complejo glucleoproteína-fosfoproteína libre de ARN del virus Nipah**
+DOI:  10.2210 / pdb4CO6 / pdb
+Clasificación:  CHAPERONE
+Organismo (s):  Nipah henipavirus
+Sistema de expresión:  Escherichia coli BL21 (DE3)
+Mutación (es):  No  
+
+(inserte imagen de proteína 4CO6)
+
+**Proteína 6EB9: Estructura cristalina del dominio de multimerización de fosfoproteínas del virus Nipah Delta 542-544**
+DOI:  10.2210 / pdb6EB9 / pdb
+Clasificación:  PROTEÍNA VIRAL
+Organismo (s):  Nipah henipavirus
+Sistema de expresión:  Escherichia coli
+Mutación (es):  No
 
 ![](6EB9.png)
+**Estructura tridimensional de la proteína 6EB9 del virus de Nipah**
 
-**Estructura de la proteína 6EB9 del virus del Nipah**
 
-# Métodología
+## Metodología
 
 1.   Se realizó una investigación a cerca de las proteínas pertenecientes al virus de Nipah, estas podrían ser proteínas de la cubierta del virus o de su interior, la finalidad de esto es utilizarlas como posibles antígeno y mediante una base de datos y varios software’s comprobar su afinidad con diferentes receptores tipo TOLL.
 
@@ -37,6 +64,9 @@ Hasta la fecha no existe una cura o un tratamiento específico, es por ello que 
 
 10.  Finalmente, se interpretaron los resultados obtenidos de cada uno de los servidores a los que se introdujo los modelos de las proteínas con los receptores 
 
+![](metodología.png)
+
+**Diagrama de flujo  de la metodología empleada en el proyecto 
 
 
 ### Resultados
