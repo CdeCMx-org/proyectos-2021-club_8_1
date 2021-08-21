@@ -13,12 +13,12 @@ La infección por este virus es una enfermedad emergente y endémica en el sures
 Una de las principales sospechas de este acontecimiento son los incendios forestales y la sequía, ya que estos factores provocaron el desalojo del hábitat natural de los murciélagos provocando su migración a zonas cultivadoras de frutos, mismas zonas en las que se encuentran las granjas de cerdos.  
 La tasa de letalidad del virus se estima entre un 40% y un 75%, dependiendo del brote. En la actualidad no existen medicamentos ni vacunas para la infección por el virus de Nipah, por lo que se encuentra dentro de las enfermedades prioritarias del plan de investigación y desarrollo de la OMS (World Health Organization, 2011
 
-**Receptores tipo TOLL (TLR's)
+**Receptores tipo TOLL (TLR's)**
 
 Los receptores tipo toll (TLRs)  son sensores de reconocimiento de membrana evolutivamente conservados, propios de la inmunidad innata que reconocen características presentes en la superficie de patógenos o que son liberados por tejido necrótico. Los TLRs se unen a través de sus dominios, que contienen repeticiones ricas en leucina (RRL) a los PMAM, y de esa manera las células desencadenan respuestas inmunitarias, entre ellas acciones inflamatorias y antivirales a través de vías de señalización derivadas del receptor intracelular (Durán A., 2014)
 (inserte imagen de los receptores)
 
-**Las proteínas del virus de Nipah
+**Las proteínas del virus de Nipah**
 
 Se han estudiado proteínas como la 4CO6 que es una estructura cristalina del complejo nucleoproteína-fosfoproteína libre de ARN del virus Nipah y la 6EB9 estructura cristalina del dominio de multimerización de fosfoproteínas del virus Nipah proporcionando nuevos conocimientos para la obtención de posibles fármacos contra el virus. Es por ello que en este trabajo se tiene como principal objetivo encontrar ciertos antígenos que sean reconocidos con receptores tipo toll (TLRs).
 
