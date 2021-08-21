@@ -23,22 +23,23 @@ Los receptores tipo toll (TLRs)  son sensores de reconocimiento de membrana evol
 Se han estudiado proteínas como la 4CO6 que es una estructura cristalina del complejo nucleoproteína-fosfoproteína libre de ARN del virus Nipah y la 6EB9 estructura cristalina del dominio de multimerización de fosfoproteínas del virus Nipah proporcionando nuevos conocimientos para la obtención de posibles fármacos contra el virus. Es por ello que en este trabajo se tiene como principal objetivo encontrar ciertos antígenos que sean reconocidos con receptores tipo toll (TLRs).
 
 **4CO6: Estructura cristalina del complejo glucleoproteína-fosfoproteína libre de ARN del virus Nipah**
-DOI:  10.2210 / pdb4CO6 / pdb
-Clasificación:  CHAPERONE
-Organismo (s):  Nipah henipavirus
-Sistema de expresión:  Escherichia coli BL21 (DE3)
-Mutación (es):  No  
+-DOI:  10.2210 / pdb4CO6 / pdb
+-Clasificación:  CHAPERONE
+-Organismo (s):  Nipah henipavirus
+-Sistema de expresión:  Escherichia coli BL21 (DE3)
+-Mutación (es):  No  
 
 (inserte imagen de proteína 4CO6)
 
 **Proteína 6EB9: Estructura cristalina del dominio de multimerización de fosfoproteínas del virus Nipah Delta 542-544**
-DOI:  10.2210 / pdb6EB9 / pdb
-Clasificación:  PROTEÍNA VIRAL
-Organismo (s):  Nipah henipavirus
-Sistema de expresión:  Escherichia coli
-Mutación (es):  No
+-DOI:  10.2210 / pdb6EB9 / pdb
+-Clasificación:  PROTEÍNA VIRAL
+-Organismo (s):  Nipah henipavirus
+-Sistema de expresión:  Escherichia coli
+-Mutación (es):  No
 
 ![](6EB9.png)
+
 **Estructura tridimensional de la proteína 6EB9 del virus de Nipah**
 
 
@@ -66,7 +67,8 @@ Mutación (es):  No
 
 ![](metodología.png)
 
-**Diagrama de flujo  de la metodología empleada en el proyecto 
+**Diagrama de flujo  de la metodología empleada en el proyecto**
+
 
 
 ### Resultados
