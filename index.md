@@ -1,13 +1,8 @@
 ## Antígenos y receptores, ¿Cuáles son más compatibles?
-ENCONTRAR CIERTOS ANTÍGENOS CON RECEPTORES TIPO TOLL
+Nuestro proyecto consiste en hacer una investigación de las proteínas pertenecientes a un virus,  en este caso el virus de Nipah, con el fin de analizar la unión que puede tener con algunos receptores tipo TOLL, mediante varios servidores e interpretar  la información que nos generan
 
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
 
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
-
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
-
-### Introducción
+## Introducción
 
 
 Hasta la fecha no existe una cura o un tratamiento específico, es por ello que el virus del Nipah se encuentra en la lista de enfermedades prioritarias del plan de investigación y desarrollo de la OMS.
@@ -33,7 +28,7 @@ Hasta la fecha no existe una cura o un tratamiento específico, es por ello que 
 
 8. Para tener un dato más preciso de la afinidad entre las moléculas del modelo generado por HDOCK se utilizó Prodigy Webserver (PROtein binDIng enerGY prediction) que genera una predicción de la afinidad de unión en complejos biológicos, así como la identificación de interfaces biológicas a partir de una cristalografía.
 
-9.Se analizaron las uniones entre las moléculas mediante la página de PDBsum, este servidor web proporciona información estructural más detallada sobre las proteínas del Protein Data Bank, los análisis que el algoritmo genera se basan principalmente en imágenes e incluyen estructura secundaria de proteínas, interacciones proteína-ligando, que es lo que se busca en el proyecto, también trabaja con complejos proteína-DNA y análisis PROCHECK de calidad estructura, entre otras funciones
+9. Se analizaron las uniones entre las moléculas mediante la página de PDBsum, este servidor web proporciona información estructural más detallada sobre las proteínas del Protein Data Bank, los análisis que el algoritmo genera se basan principalmente en imágenes e incluyen estructura secundaria de proteínas, interacciones proteína-ligando, que es lo que se busca en el proyecto, también trabaja con complejos proteína-DNA y análisis PROCHECK de calidad estructura, entre otras funciones
 
 10.  Finalmente, se interpretaron los resultados obtenidos de cada uno de los servidores a los que se introdujo los modelos de las proteínas con los receptores 
 
