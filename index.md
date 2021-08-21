@@ -1,6 +1,10 @@
 ## Antígenos y receptores, ¿Cuáles son más compatibles?
 Nuestro proyecto consiste en hacer una investigación de las proteínas pertenecientes a un virus,  en este caso el virus de Nipah, con el fin de analizar la unión que puede tener con algunos receptores tipo TOLL, mediante varios servidores e interpretar  la información que nos generan
 
+![](murcielagos.png)
+
+
+**Los murciélagos sobrevuelan el mercado de Battambang, Camboya orinando y defecando en cualquier sitio.**
 
 ## Introducción
 
@@ -8,6 +12,7 @@ Nuestro proyecto consiste en hacer una investigación de las proteínas pertenec
 Hasta la fecha no existe una cura o un tratamiento específico, es por ello que el virus del Nipah se encuentra en la lista de enfermedades prioritarias del plan de investigación y desarrollo de la OMS.
 
 ![](6EB9.png)
+
 **Estructura de la proteína 6EB9 del virus del Nipah**
 
 # Métodología
