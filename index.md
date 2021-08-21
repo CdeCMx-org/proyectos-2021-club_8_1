@@ -1,6 +1,5 @@
 # Antígenos y receptores, ¿Cuáles son más compatibles?
-
-###### Ana Guadalupe Méndez Hernández, Angel Ramirez Angeles, Ana Rosa de la Cruz Nicolás, Andrea Melissa Mollineda Oregón 
+##### Ana Guadalupe Méndez Hernández, Angel Ramirez Angeles, Ana Rosa de la Cruz Nicolás, Andrea Melissa Mollineda Oregón 
 
 
 Nuestro proyecto consiste en hacer una investigación de las proteínas pertenecientes a un virus,  en este caso el virus de Nipah, con el fin de analizar la unión que puede tener con algunos receptores tipo TOLL, mediante varios servidores e interpretar  la información que nos generan
@@ -35,7 +34,7 @@ La tasa de letalidad del virus se estima entre un 40% y un 75%, dependiendo del 
 
 Los receptores tipo toll (TLRs)  son sensores de reconocimiento de membrana evolutivamente conservados, propios de la inmunidad innata que reconocen características presentes en la superficie de patógenos o que son liberados por tejido necrótico. Los TLRs se unen a través de sus dominios, que contienen repeticiones ricas en leucina (RRL) a los PMAM, y de esa manera las células desencadenan respuestas inmunitarias, entre ellas acciones inflamatorias y antivirales a través de vías de señalización derivadas del receptor intracelular (Durán A., 2014)
 
-![](receptores.png)
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -48,7 +47,7 @@ img {
 </style>
 </head>
 <body>
-<img src="receptores.png" alt="receptores" style="width:80%;">
+<img src="receptores.png" alt="receptores" style="width:60%;">
     <figcaption>Fig.2 - Receptores tipo TOLL (TLRs).</figcaption>
 </body>
 </html>
