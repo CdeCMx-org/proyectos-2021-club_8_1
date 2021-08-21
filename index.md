@@ -63,9 +63,11 @@ Se han estudiado proteínas como la 4CO6 que es una estructura cristalina del co
 - Sistema de expresión:  Escherichia coli BL21 (DE3) 
 - Mutación (es):  No  
 
+
 ![](4CO6.png)
 
-**Estructura tridimensional de la proteína chaperona 4CO6 del virus de Nipah **
+**Estructura tridimensional de la proteína 4CO6 del virus de Nipah**
+
 
 **Proteína 6EB9: Estructura cristalina del dominio de multimerización de fosfoproteínas del virus Nipah Delta 542-544**
 - DOI:  10.2210 / pdb6EB9 / pdb
@@ -108,23 +110,9 @@ Se han estudiado proteínas como la 4CO6 que es una estructura cristalina del co
 
 
 ### Resultados
+A continuación, les mostraremos los resultados del docking molecular que llevamos a cabo con cada una de las proteínas y con los receptores que seleccionamos.
+Para la proteína chaperona 4CO6, que está presente en interior del virus  se decidió usar receptores tipo toll (TLR's) internos, como  el TLR3, TLR7 y TLR8. 
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-<body>
-<img src="Captura Excel 1.png" alt="Captura Excel 1" style="width:60%;">
-    <figcaption>Fig.2 - </figcaption>
-</body>
-</html>
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
 
 Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
