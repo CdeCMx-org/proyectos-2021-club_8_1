@@ -149,6 +149,7 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 
 ### Conclusiones
 
+Existen diversas técnicas que nos permiten predecir energías y modos de enlace entre ligando y receptor, como es el docking molecular, esta técnica nos permitió ver la interacción entre antígeno y receptor 
 Es posible reconocer ciertos antígenos con receptores tipo toll (TLRs) por medio de dinámica molecular.
 
 
