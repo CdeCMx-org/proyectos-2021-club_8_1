@@ -233,7 +233,7 @@ img {
 </style>
 </head>
 <body>
-<img src="6EB9.png" alt="6EB9.png" style="width:60%;">
+<img src="6EB9.png" alt="6EB9.png" style="width:80%;">
     <figcaption>Fig.9 - Visualización de la interacción de la proteína 6EB9 y el receptor TLR4 a traves del programa de Chimera.</figcaption>
 </body>
 </html>
