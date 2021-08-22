@@ -219,7 +219,22 @@ Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externo
 
 ![](tabla22.PNG)
 
-
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="final3.PNG" alt="final3.PNG" style="width:50%;">
+    <figcaption>Fig.7 - Visualización de la interacción de la proteína 6EB9 y el receptor TLR4 a traves del programa de Chimera.</figcaption>
+</body>
+</html>
 
 
 
