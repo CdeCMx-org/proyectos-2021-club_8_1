@@ -77,13 +77,11 @@ img {
 </style>
 </head>
 <body>
-<img src="4CO6.png" alt="4CO6.png" style="width:30%;">
+<img src="4CO6.png" alt="4CO6.png" style="width:40%;">
     <figcaption>Fig.1 - Estructura tridimensional de la proteína 4CO6 del virus de Nipah.</figcaption>
 </body>
 </html>
-![](4CO6.png)
 
-**Estructura tridimensional de la proteína 4CO6 del virus de Nipah**
 
 
 **Proteína 6EB9: Estructura cristalina del dominio de multimerización de fosfoproteínas del virus Nipah Delta 542-544**
@@ -93,9 +91,23 @@ img {
 - Sistema de expresión:  Escherichia coli
 - Mutación (es):  No
 
-![](6EB9.png)
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="6EB9.png" alt="6EB9.png" style="width:40%;">
+    <figcaption>Fig.1 - Estructura tridimensional de la proteína 6EB9 del virus del Nipah.</figcaption>
+</body>
+</html>
 
-**Estructura tridimensional de la proteína chaperona 4CO6 del virus del Nipah**
 
 
 ## Metodología
@@ -120,9 +132,22 @@ img {
 
 10.  Finalmente, se interpretaron los resultados obtenidos de cada uno de los servidores a los que se introdujo los modelos de las proteínas con los receptores 
 
-![](metodología.png)
-
-**Diagrama de flujo  de la metodología empleada en el proyecto**
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="metodología.png" alt="metodología.png" style="width:40%;">
+    <figcaption>Fig.1 - Diagrama de flujo  de la metodología empleada en el proyecto.</figcaption>
+</body>
+</html>
 
 
 
