@@ -21,12 +21,14 @@ img {
 </body>
 </html>
 
+hola
+
+## Introducción
 div {
   text-align: justify;
   text-justify: inter-word;
 }
 
-## Introducción
 El virus de Nipah es un virus zoonótico ya que es transmitido principalmente de animales a personas aunque también  de un individuo a otro y mediante alimentos contaminados. Esta enfermedad infecciosa es reconocida por primera vez en 1999 en Malasia durante un brote entre criadores de cerdos. El virus Nipah es un miembro del género Henipavirus de la familia Paramyxoviridae. Este género incluye al virus Hendra, con el que está estrechamente relacionado.
 
 La infección por este virus es una enfermedad emergente y endémica en el sureste de Asia, en Bangladesh se reconoció por primera vez en el año 2001, el país ha sufrido brotes anuales desde entonces al igual que al este de la India. Otras regiones están en riesgo de infección por el virus de Nipah ya que se han encontrado pruebas serológicas de su presencia en el reservorio natural de especies de murciélagos del género Pteropus, entre otras especies de murciélagos ubicados en otros países como Camboya, Filipinas, Ghana, Indonesia, Madagascar y Tailandia.
