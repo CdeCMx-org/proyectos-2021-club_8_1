@@ -116,7 +116,6 @@ Para la proteína chaperona 4CO6, que está presente en interior del virus  se d
 ![](tabla11.PNG)
 
 
-
 ![](tabla22.PNG)
 
 
