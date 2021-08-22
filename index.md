@@ -119,12 +119,23 @@ Para la proteína chaperona 4CO6, que está presente en el interior del virus, s
 
 En la tabla 1. Se puede apreciar la afinidad de cada interacción entre ligando-receptor, si hay o no hay presencia de puentes de hridógeno así como puentes salinos. El receptor TLR8 al interaccionar con la proteína 4CO6 no dio una afinidad tan alta como las otras interacciones ligando-receptor, pero tuvo presencia de puentes de hidrógeno y puentes de sal, por lo que es de gran interes estudiar a estas moléculas en trabajos posteriores.
 
+![](4CO6modelo.png)
+
+**Modelo generado por HDOCK de la proteína 4CO6 con el receptor TLR7**
+
+![](4CO6HDOCK.png)
+
+**Análisis de posibles uniones entre la proteína 4CO6 con el receptor TLR7 con sus  puntajes de docking**
+
+![](4CO6prodigy.png)
+
+**Energía de unión entre la proteína 4CO6 y el receptor TLR7**
+
+
 
 Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externos, ya que según estudios anteriores la proteina 6EB9 es de gran abundancia en el virus de Nipah, dando los siguientes resultados al interaccionar con los receptores TLR4 Y TLR5 que se aprecian en la tabla 2. 
 
 ![](tabla22.PNG)
-
-Esta proteína a diferencia de la 4CO6 presenta una afinidad menor en sus interacciones y casi no hay presencia de puentes de hidrógeno.
 
 
 
