@@ -191,7 +191,7 @@ img {
 </style>
 </head>
 <body>
-<img src="4CO6HDOCK.png" alt="4CO6HDOCK.png" style="width:70%;">
+<img src="4CO6HDOCK.png" alt="4CO6HDOCK.png" style="width:50%;">
     <figcaption>Fig.7 - Análisis de posibles uniones entre la proteína 4CO6 con el receptor TLR7 con sus  puntajes de docking.</figcaption>
 </body>
 </html>
@@ -248,7 +248,7 @@ img {
 </style>
 </head>
 <body>
-<img src="final5.PNG" alt="final5.PNG" style="width:70%;">
+<img src="final5.PNG" alt="final5.PNG" style="width:50%;">
     <figcaption>Fig.10 - Análisis de posibles uniones entre la proteína 6EB9 con el receptor TLR4 con sus  puntajes de docking.</figcaption>
 </body>
 </html>
