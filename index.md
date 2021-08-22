@@ -124,6 +124,8 @@ Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externo
 
 ![](tabla22.PNG)
 
+Esta proteína a diferencia de la 4CO6 presenta una afinidad menor en sus interacciones y casi no hay presencia de puentes de hidrógeno.
+
 
 
 Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
