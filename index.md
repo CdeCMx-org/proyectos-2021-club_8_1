@@ -157,21 +157,61 @@ A continuación, les mostraremos los resultados del docking molecular que llevam
 
 Para la proteína chaperona 4CO6, que está presente en el interior del virus, se decidió usar receptores tipo toll (TLR's) internos, como  el TLR3, TLR7 y TLR8.
 
+
 ![](tabla11.PNG)
 
 En la Tabla 1. Se puede apreciar la afinidad de cada interacción entre ligando-receptor, si hay o no hay presencia de puentes de hridógeno así como puentes salinos. El receptor TLR8 al interaccionar con la proteína 4CO6 no dio una afinidad tan alta como las otras interacciones ligando-receptor, pero tuvo presencia de puentes de hidrógeno y puentes de sal, por lo que es de gran interes estudiar a estas moléculas en trabajos posteriores.
 
-![](4CO6modelo.png)
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="4CO6modelo.png" alt="4CO6modelo.png" style="width:40%;">
+    <figcaption>Fig.6 - Modelo generado por HDOCK de la proteína 4CO6 con el receptor TLR7.</figcaption>
+</body>
+</html>
 
-**Modelo generado por HDOCK de la proteína 4CO6 con el receptor TLR7**
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="4CO6HDOCK.png" alt="4CO6HDOCK.png" style="width:40%;">
+    <figcaption>Fig.7 - Análisis de posibles uniones entre la proteína 4CO6 con el receptor TLR7 con sus  puntajes de docking.</figcaption>
+</body>
+</html>
 
-![](4CO6HDOCK.png)
-
-**Análisis de posibles uniones entre la proteína 4CO6 con el receptor TLR7 con sus  puntajes de docking**
-
-![](4CO6prodigy.png)
-
-**Energía de unión entre la proteína 4CO6 y el receptor TLR7**
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="4CO6prodigy.png" alt="4CO6prodigy.png" style="width:40%;">
+    <figcaption>Fig.7 - Energía de unión entre la proteína 4CO6 y el receptor TLR7.</figcaption>
+</body>
+</html>
 
 
 
@@ -192,6 +232,12 @@ Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externo
 Existen diversas técnicas que nos ayudan a predecir las energías y modos de enlace entre ligandos y receptores, como es el docking molecular, esta técnica nos permitió ver la interacción entre antígeno y receptor, en este caso de una proteína perteneciente a un virus y un receptor de tipo toll (TLR) presente en algunas células del sistema inmune. El poder predecir la afinidad de la unión entre las moléculas puede ayudarnos a estudiar la respuesta que se genera dentro de nuestro organismo al estar en contacto con un agente patógeno.
 
 
+
+### Video
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/sD_B5b3sF38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Bibliografía
 
 1. World Health Organization. (2011). Nipah virus= Virus Nipah. Weekly Epidemiological Record= Relevé épidémiologique hebdomadaire, 86(41), 451-455.
@@ -200,9 +246,6 @@ Ejecutivo, C. (2018). Preparación y respuesta en materia de salud pública: lab
 3. Bonaparte, M. I., Dimitrov, A. S., Bossart, K. N., Crameri, G., Mungall, B. A., Bishop, K. A., ... & Broder, C. C. (2005). Ephrin-B2 ligand is a functional receptor for Hendra virus and Nipah virus. Proceedings of the National Academy of Sciences, 102(30), 10652-10657.
 4. Durán, A., Álvarez-Mon, M., & Valero, N. (2014). Papel de los receptores tipo toll (TLRs) y receptores para dominios de oligomerización para la unión a nucleótidos (NLRs) en las infecciones virales. Investigación Clínica, 55(1), 61-81.
 
-### Video
-
- <iframe width="560" height="315" src="https://www.youtube.com/embed/sD_B5b3sF38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 ### Equipo
 
