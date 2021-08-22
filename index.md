@@ -149,7 +149,9 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 
 ### Conclusiones
 
-Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
+Es posible reconocer ciertos antígenos con receptores tipo toll (TLRs) por medio de dinamica molecular.
+
+
 ### Bibliografía
 
 1. World Health Organization. (2011). Nipah virus= Virus Nipah. Weekly Epidemiological Record= Relevé épidémiologique hebdomadaire, 86(41), 451-455.
