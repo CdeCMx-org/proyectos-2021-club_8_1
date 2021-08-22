@@ -158,7 +158,9 @@ A continuación, les mostraremos los resultados del docking molecular que llevam
 Para la proteína chaperona 4CO6, que está presente en el interior del virus, se decidió usar receptores tipo toll (TLR's) internos, como  el TLR3, TLR7 y TLR8.
 
 
+
 ![](tabla11.PNG)
+
 
 
 En la Tabla 1. Se puede apreciar la afinidad de cada interacción entre ligando-receptor, si hay o no hay presencia de puentes de hidrógeno así como puentes salinos. El receptor TLR8 al interaccionar con la proteína 4CO6 no dio una afinidad tan alta como las otras interacciones ligando-receptor, pero tuvo presencia de puentes de hidrógeno y puentes de sal, por lo que es de gran interés estudiar a estas moléculas en trabajos posteriores.
@@ -217,7 +219,11 @@ img {
 
 
 
+
 ![](tabla22.PNG)
+
+
+
 
 
 Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externos, ya que según estudios anteriores la proteina 6EB9 es de gran abundancia en el virus de Nipah, dando los siguientes resultados al interaccionar con los receptores TLR4 Y TLR5 que se aprecian en la Tabla 2. 
@@ -298,8 +304,8 @@ Ejecutivo, C. (2018). Preparación y respuesta en materia de salud pública: lab
  
 ### Equipo
 
-* Ana Guadalupe Méndez Hernández
-* Angel Ramirez Angeles
-* Ana Rosa de la Cruz Nicolás
-* Andrea Melissa Mollineda Oregón 
+* Ana Guadalupe Méndez Hernández, estudiante de la Licenciatura en Químico Farmacéutico Biólogo.
+* Angel Ramirez Angeles, estudiante de Ingeniería en Energía.
+* Ana Rosa de la Cruz Nicolás, estudiante de la Licenciatura en Medicina.
+* Andrea Melissa Mollineda Oregón, estudiante de la Licenciatura en Biotecnología.
 
