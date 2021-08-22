@@ -77,7 +77,7 @@ img {
 </style>
 </head>
 <body>
-<img src="4CO6.png" alt="4CO6.png" style="width:40%;">
+<img src="4CO6.png" alt="4CO6.png" style="width:30%;">
     <figcaption>Fig.1 - Estructura tridimensional de la proteína 4CO6 del virus de Nipah.</figcaption>
 </body>
 </html>
