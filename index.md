@@ -209,7 +209,7 @@ img {
 </head>
 <body>
 <img src="4CO6prodigy.png" alt="4CO6prodigy.png" style="width:40%;">
-    <figcaption>Fig.7 - Energía de unión entre la proteína 4CO6 y el receptor TLR7.</figcaption>
+    <figcaption>Fig.8 - Energía de unión entre la proteína 4CO6 y el receptor TLR7.</figcaption>
 </body>
 </html>
 
@@ -232,12 +232,43 @@ img {
 </head>
 <body>
 <img src="final3.PNG" alt="final3.PNG" style="width:50%;">
-    <figcaption>Fig.7 - Visualización de la interacción de la proteína 6EB9 y el receptor TLR4 a traves del programa de Chimera.</figcaption>
+    <figcaption>Fig.9 - Visualización de la interacción de la proteína 6EB9 y el receptor TLR4 a traves del programa de Chimera.</figcaption>
 </body>
 </html>
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="final5.PNG" alt="final5.PNG" style="width:50%;">
+    <figcaption>Fig.10 - Análisis de posibles uniones entre la proteína 6EB9 con el receptor TLR4 con sus  puntajes de docking.</figcaption>
+</body>
+</html>
 
-
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="final2.PNG" alt="final2.PNG" style="width:50%;">
+    <figcaption>Fig.11 - Energía de unión entre la proteína 6EB9 y el receptor TLR4.</figcaption>
+</body>
+</html>
 
 
 ### Conclusiones
