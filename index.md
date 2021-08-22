@@ -139,15 +139,12 @@ Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externo
 
 ![](tabla22.PNG)
 
-![](TLR3.PNG)
-**Interacción entre la proteína 4CO4 y el receptor TLR3**
 
-Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 
-![](Logo_CdeCMx.png)
 
-O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
-<img src="Logo_CdeCMx.png" width=200>
+![](TLR3.png)
+**Interacción entre la proteína 4CO6 y el receptor TLR3**
+
 
 
 ### Conclusiones
