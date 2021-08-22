@@ -65,7 +65,22 @@ Se han estudiado proteínas como la 4CO6 que es una estructura cristalina del co
 - Sistema de expresión:  Escherichia coli BL21 (DE3) 
 - Mutación (es):  No  
 
-
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="4CO6.png" alt="4CO6.png" style="width:80%;">
+    <figcaption>Fig.1 - Estructura tridimensional de la proteína 4CO6 del virus de Nipah.</figcaption>
+</body>
+</html>
 ![](4CO6.png)
 
 **Estructura tridimensional de la proteína 4CO6 del virus de Nipah**
