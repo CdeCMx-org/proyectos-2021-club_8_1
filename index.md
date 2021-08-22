@@ -117,7 +117,7 @@ Para la proteína chaperona 4CO6, que está presente en el interior del virus, s
 
 ![](tabla11.PNG)
 
-En la tabla 1. Se puede apreciar la afinidad de cada interacción entre ligando-receptor, si hay o no hay presencia de puentes de hridógeno así como puentes salinos. El receptor TLR8 al interaccionar con la proteína 4CO6 no dio una afinidad tan alta como las otras interacciones ligando-receptor, pero tuvo presencia de puentes de hidrógeno y puentes de sal, por lo que es de gran interes estudiar a estas moléculas en trabajos posteriores.
+En la Tabla 1. Se puede apreciar la afinidad de cada interacción entre ligando-receptor, si hay o no hay presencia de puentes de hridógeno así como puentes salinos. El receptor TLR8 al interaccionar con la proteína 4CO6 no dio una afinidad tan alta como las otras interacciones ligando-receptor, pero tuvo presencia de puentes de hidrógeno y puentes de sal, por lo que es de gran interes estudiar a estas moléculas en trabajos posteriores.
 
 ![](4CO6modelo.png)
 
@@ -133,7 +133,7 @@ En la tabla 1. Se puede apreciar la afinidad de cada interacción entre ligando-
 
 
 
-Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externos, ya que según estudios anteriores la proteina 6EB9 es de gran abundancia en el virus de Nipah, dando los siguientes resultados al interaccionar con los receptores TLR4 Y TLR5 que se aprecian en la tabla 2. 
+Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externos, ya que según estudios anteriores la proteina 6EB9 es de gran abundancia en el virus de Nipah, dando los siguientes resultados al interaccionar con los receptores TLR4 Y TLR5 que se aprecian en la Tabla 2. 
 
 ![](tabla22.PNG)
 
@@ -149,7 +149,7 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 
 ### Conclusiones
 
-Es posible reconocer ciertos antígenos con receptores tipo toll (TLRs) por medio de dinamica molecular.
+Es posible reconocer ciertos antígenos con receptores tipo toll (TLRs) por medio de dinámica molecular.
 
 
 ### Bibliografía
