@@ -144,7 +144,7 @@ img {
 </style>
 </head>
 <body>
-<img src="metodología.png" alt="metodología.png" style="width:40%;">
+<img src="metodología.png" alt="metodología.png" style="width:80%;">
     <figcaption>Fig.5 - Diagrama de flujo  de la metodología empleada en el proyecto.</figcaption>
 </body>
 </html>
