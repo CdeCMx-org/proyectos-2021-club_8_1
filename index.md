@@ -78,7 +78,7 @@ img {
 </head>
 <body>
 <img src="4CO6.png" alt="4CO6.png" style="width:40%;">
-    <figcaption>Fig.1 - Estructura tridimensional de la proteína 4CO6 del virus de Nipah.</figcaption>
+    <figcaption>Fig.3 - Estructura tridimensional de la proteína 4CO6 del virus de Nipah.</figcaption>
 </body>
 </html>
 
@@ -104,7 +104,7 @@ img {
 </head>
 <body>
 <img src="6EB9.png" alt="6EB9.png" style="width:40%;">
-    <figcaption>Fig.1 - Estructura tridimensional de la proteína 6EB9 del virus del Nipah.</figcaption>
+    <figcaption>Fig.4 - Estructura tridimensional de la proteína 6EB9 del virus del Nipah.</figcaption>
 </body>
 </html>
 
@@ -145,7 +145,7 @@ img {
 </head>
 <body>
 <img src="metodología.png" alt="metodología.png" style="width:40%;">
-    <figcaption>Fig.1 - Diagrama de flujo  de la metodología empleada en el proyecto.</figcaption>
+    <figcaption>Fig.5 - Diagrama de flujo  de la metodología empleada en el proyecto.</figcaption>
 </body>
 </html>
 
