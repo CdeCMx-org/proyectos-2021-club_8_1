@@ -174,7 +174,7 @@ img {
 </style>
 </head>
 <body>
-<img src="4CO6modelo.png" alt="4CO6modelo.png" style="width:40%;">
+<img src="4CO6modelo.png" alt="4CO6modelo.png" style="width:60%;">
     <figcaption>Fig.6 - Modelo generado por HDOCK de la proteína 4CO6 con el receptor TLR7.</figcaption>
 </body>
 </html>
@@ -222,8 +222,6 @@ Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externo
 
 
 
-![](TLR3.png)
-**Interacción entre la proteína 4CO6 y el receptor TLR3**
 
 
 
