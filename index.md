@@ -175,7 +175,7 @@ img {
 </head>
 <body>
 <img src="4CO6modelo.png" alt="4CO6modelo.png" style="width:60%;">
-    <figcaption>Fig.6 - Modelo generado por HDOCK de la proteína 4CO6 con el receptor TLR7.</figcaption>
+    <figcaption>Fig.6 - Modelo generado por HDOCK de la proteína 4CO6 con el receptor TLR7 y visualizado por el programa Chimera.</figcaption>
 </body>
 </html>
 
@@ -234,7 +234,7 @@ img {
 </head>
 <body>
 <img src="6EB9.png" alt="6EB9.png" style="width:80%;">
-    <figcaption>Fig.9 - Visualización de la interacción de la proteína 6EB9 y el receptor TLR4 a traves del programa de Chimera.</figcaption>
+    <figcaption>Fig.9 - Modelo generado por HDOCK de la proteína 6EB9 y el receptor TLR4 y visualizado por el programa Chimera.</figcaption>
 </body>
 </html>
 
