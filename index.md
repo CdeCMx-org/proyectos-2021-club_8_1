@@ -191,7 +191,7 @@ img {
 </style>
 </head>
 <body>
-<img src="4CO6HDOCK.png" alt="4CO6HDOCK.png" style="width:50%;">
+<img src="4CO6HDOCK.png" alt="4CO6HDOCK.png" style="width:80%;">
     <figcaption>Fig.7 - Análisis de posibles uniones entre la proteína 4CO6 con el receptor TLR7 con sus  puntajes de docking.</figcaption>
 </body>
 </html>
@@ -208,16 +208,18 @@ img {
 </style>
 </head>
 <body>
-<img src="4CO6prodigy.png" alt="4CO6prodigy.png" style="width:70%;">
+<img src="4CO6prodigy.png" alt="4CO6prodigy.png" style="width:50%;">
     <figcaption>Fig.8 - Energía de unión entre la proteína 4CO6 y el receptor TLR7.</figcaption>
 </body>
 </html>
 
 
 
-Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externos, ya que según estudios anteriores la proteina 6EB9 es de gran abundancia en el virus de Nipah, dando los siguientes resultados al interaccionar con los receptores TLR4 Y TLR5 que se aprecian en la Tabla 2. 
 
 ![](tabla22.PNG)
+Para la proteína 6EB9 se decidió usar con receptores tipo toll (TLR's) externos, ya que según estudios anteriores la proteina 6EB9 es de gran abundancia en el virus de Nipah, dando los siguientes resultados al interaccionar con los receptores TLR4 Y TLR5 que se aprecian en la Tabla 2. 
+
+
 
 <html>
 <head>
@@ -231,7 +233,7 @@ img {
 </style>
 </head>
 <body>
-<img src="6EB9.png" alt="6EB9.png" style="width:70%;">
+<img src="6EB9.png" alt="6EB9.png" style="width:60%;">
     <figcaption>Fig.9 - Visualización de la interacción de la proteína 6EB9 y el receptor TLR4 a traves del programa de Chimera.</figcaption>
 </body>
 </html>
@@ -248,7 +250,7 @@ img {
 </style>
 </head>
 <body>
-<img src="final5.PNG" alt="final5.PNG" style="width:50%;">
+<img src="final5.PNG" alt="final5.PNG" style="width:80%;">
     <figcaption>Fig.10 - Análisis de posibles uniones entre la proteína 6EB9 con el receptor TLR4 con sus  puntajes de docking.</figcaption>
 </body>
 </html>
