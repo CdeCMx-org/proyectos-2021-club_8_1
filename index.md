@@ -1,4 +1,4 @@
-# Antígenos y receptores, ¿Cuáles son más compatibles?
+## Antígenos y receptores, ¿Cuáles son más compatibles?
 ###### Ana Guadalupe Méndez Hernández, Angel Ramirez Angeles, Ana Rosa de la Cruz Nicolás, Andrea Melissa Mollineda Oregón 
 
 
