@@ -103,7 +103,7 @@ img {
 </style>
 </head>
 <body>
-<img src="6EB9.png" alt="6EB9.png" style="width:40%;">
+<img src="6EB9primera.png" alt="6EB9primera.png" style="width:60%;">
     <figcaption>Fig.4 - Estructura tridimensional de la proteína 6EB9 del virus del Nipah.</figcaption>
 </body>
 </html>
