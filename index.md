@@ -149,7 +149,7 @@ O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de 
 
 ### Conclusiones
 
-Existen diversas técnicas que nos permiten predecir energías y modos de enlace entre ligando y receptor, como es el docking molecular, esta técnica nos permitió ver la interacción entre entre una proteína perteneciente a un virus y un receptor de tipo toll (TLRs) presente en células del sistema inmune. El poder predecir la afinidad de la unión entre estas moléculas nos puede ayudar a estudiar el estímulo que el antígeno puede generar al ser reconocido por los receptores de la membrana y si posteriormente generará una respuesta inmune.
+Existen diversas técnicas que nos ayudan a predecir las energías y modos de enlace entre ligandos y receptores, como es el docking molecular, esta técnica nos permitió ver la interacción entre antígeno y receptor, en este caso de una proteína perteneciente a un virus y un receptor de tipo toll (TLR) presente en algunas células del sistema inmune. El poder predecir la afinidad de la unión entre las moléculas puede ayudarnos a estudiar la respuesta que se genera dentro de nuestro organismo al estar en contacto con un agente patógeno.
 
 
 ### Bibliografía
